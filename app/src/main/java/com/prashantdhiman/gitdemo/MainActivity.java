@@ -18,5 +18,9 @@ public class MainActivity extends AppCompatActivity {
         textView=findViewById(R.id.textview);
 
         Toast.makeText(getApplicationContext(),"this is toast",Toast.LENGTH_SHORT).show();
+
+        Toast.makeText(getApplicationContext(),"this is toast",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(),"this is toast",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(),"this is toast",Toast.LENGTH_SHORT).show();
     }
 }
